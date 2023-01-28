@@ -27,5 +27,5 @@ Material de estudos práticos do Programa ONE da Oracle
 * Deletar um cliente utilizando o verbo http DELETE
 
 * Fazer uma query string utilizando a propriedade searchParams.get() para encontrar um id
-* * Criar uma IIFE ou função auto executável
-Editar os dados utilizando o verbo http PUT
+* Criar uma IIFE ou função auto executável
+* Editar os dados utilizando o verbo http PUT
