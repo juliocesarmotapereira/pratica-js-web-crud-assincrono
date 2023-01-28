@@ -4,7 +4,7 @@ Material de estudos práticos do Programa ONE da Oracle
 
 ### Anotações
 
-* rodar o json server: npx json-server --watch db.json
+* Rodar o json server: npx json-server --watch db.json
 * Requisições Ajax 
 * Requisições utilizando XMLHttpRequest
 * Promise.all
@@ -20,3 +20,8 @@ Material de estudos práticos do Programa ONE da Oracle
 * Evento de Loop: fila de promessa - fila de funções da web api referência http://latentflip.com/loupe (encurtador.com.br/AKNY6)
 
 * Consulta de site antigos https://web.archive.org/
+
+* Método closest para encontrar o elemento do DOM mais próximo ao que queremos remover
+* Criar um cliente utilizando o verbo http POST
+* Remover um elemento do dom com método remove()
+* Deletar um cliente utilizando o verbo http DELETE
