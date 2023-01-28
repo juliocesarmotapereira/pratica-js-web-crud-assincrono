@@ -11,8 +11,8 @@
       "id": 2
     },
     {
-      "nome": "nomeTesteTres",
-      "email": "terceiro@teste.com.br",
+      "nome": "nomeAlteraçãoNome",
+      "email": "alteracao@teste.com",
       "id": 3
     }
   ]
