@@ -29,3 +29,8 @@ Material de estudos práticos do Programa ONE da Oracle
 * Fazer uma query string utilizando a propriedade searchParams.get() para encontrar um id
 * Criar uma IIFE ou função auto executável
 * Editar os dados utilizando o verbo http PUT
+
+* JS Funções assíncronas: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/async_function
+
+* Utilizar async/await para indicar funções assíncronas.
+* Tratar erros com try/catch
