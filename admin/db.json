@@ -1,8 +1,8 @@
 {
   "profile": [
     {
-      "nome": "testeNome",
-      "email": "testeEmail@alura.com",
+      "nome": "testeNomeTestado",
+      "email": "emailEditado@alura.com",
       "id": 1
     },
     {

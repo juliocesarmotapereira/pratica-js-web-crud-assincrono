@@ -4,7 +4,7 @@ Material de estudos práticos do Programa ONE da Oracle
 
 ### Anotações
 
-* Rodar o json server: npx json-server --watch db.json
+* Rodar o json server na pasta admin: npx json-server --watch db.json
 * Requisições Ajax 
 * Requisições utilizando XMLHttpRequest
 * Promise.all
